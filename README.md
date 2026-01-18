@@ -1,90 +1,29 @@
-# 🎲 SirRiceBurger  
-### Skyblock Casino Engineering • Regulation • Fairness Analytics
+# Gopal Reissenberger
 
-Welcome to the repository hub for Skyblock’s most audited gambling infrastructure.
+I build quantitative + ML systems that make decisions under uncertainty.
 
-This space documents the systems, standards, mathematical models and verification tools used to certify casinos across the network. Every certified operator is listed with technical profiles, probability graphs, expected value breakdowns, and compliance history.
+Most of my work sits at the intersection of:
+- **Quantitative finance** (systematic research, market modelling)
+- **Machine learning** (experiments, optimisation, applied RL)
+- **High-performance computation** (C++/Python, large-scale runs, efficiency)
 
-This is the regulatory and engineering backbone for gambling economics on Skyblock.
+## Current Focus
+- **Algorithmic trading research**: backtesting, signal design, execution logic
+- **ML projects**: training loops, evaluation pipelines, model iteration
+- **Mathematical Research**: large computations + algorithmic improvements
 
----
+## Projects
+- **Trading Systems & Research** → strategy prototypes, analytics, infrastructure  
+- **ML / Reinforcement Learning** → experimentation + performance tuning  
+- **Computational Number Theory** → high-scale compute + verification work  
 
-## 🔧 What I Do
+## Stack
+**Languages:** C++, Python, HTML, CSS  
+**Tools:** Git, NumPy, Matplotlib, basic data pipelines  
+**Interests:** optimisation, probability, market microstructure, scalable systems
 
-✔ Design casino systems    
-✔ Publish fairness proofs and odds charts  
-✔ Certify casino operators through audit  
-✔ Maintain transparency registries    
+## Links
+- **LinkedIn:** *https://www.linkedin.com/in/gopal-reissenberger-b59466375/*  
+- **Email:** *reissenbergerg@gmail.com*  
 
-Casinos wanting legitimacy and high-stake traffic rely on these frameworks.
-
----
-
-## 📊 The Public Registry
-
-Each certified casino receives:
-
-- A documentation page  
-- Breakdown of odds and payout curves  
-- House edge and expected value analysis  
-- Verification logs  
-- Fairness methodology  
-- Risk alerts and recommended maintenance cycles  
-
-This acts as the trust layer between owners and players.
-
----
-
-## 🔐 Compliance Standards
-
-All certification follows core principles:
-
-1. Verifiable randomisation  
-2. Transparent payout logic   
-
-Failure incidents and response resolutions are recorded publicly.
-
----
-
-## 🧠 Why This Exists
-
-Skyblock has casinos everywhere, but very few earn trust.
-
-Players deserve:
-
-- Transparent math  
-- Predictable behaviour  
-- Proof of safety  
-
-Owners benefit from:
-
-- More high-roller traffic  
-- Reputation  
-- Reduced disputes  
-
-This repository is where those interests meet.
-
----
-
-## 📬 Contact & Commissioning
-
-Casino owners can request:
-
-✔ Audits  
-✔ Fairness certification   
-✔ Storage security upgrades  
-✔ Documentation publication  
-
-To enquire, pls /mail **SirRiceBurger** in-game.
-
----
-
-## ⚙ Status
-
-This registry will continuously expand.  
-Operators that achieve certification early become **founding institutions** in the documented economy.
-
----
-
-> _If you run a casino but aren’t listed here, the market will assume you aren’t compliant._  
-> Consider this your invitation to fix that.
+If you’re working in quant research, systematic trading, or applied ML, feel free to connect.
